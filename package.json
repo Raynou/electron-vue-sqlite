@@ -2,6 +2,7 @@
   "name": "electron-vue-sqlite",
   "private": true,
   "version": "0.0.0",
+  "type": "commonjs",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build && electron-builder",
